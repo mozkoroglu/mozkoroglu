@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Murat
+- 👀 I’m interested in development iOS app with Swift
+- 🌱 I’m currently learning Swift
+- 😎 I’m just walking around 
+- 📫 You can say hi via twitter/@hey_moz
+- 🌻 Nice!
